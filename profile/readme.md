@@ -2,8 +2,8 @@
   <h1>📱 Пробить по Номеру Телефона — OSINT Бот (2026)</h1>
   <p><strong>Узнай кто звонил: ФИО, адрес, соцсети и как человек записан у других. Работает прямо в Telegram.</strong></p>
   
-  <a href="https://t.me/oofindersearchbot"><img src="https://img.shields.io/badge/ПРОБИТЬ_НОМЕР-ЗАПУСТИТЬ_БОТА-0088cc?style=for-the-badge&logo=telegram"></a>
-  <a href="https://t.me/oofindersearchbot"><img src="https://img.shields.io/badge/Базы-Обновлены_2026-success?style=for-the-badge"></a>
+  <a href="https://t.me/searcheruserinfobot"><img src="https://img.shields.io/badge/ПРОБИТЬ_НОМЕР-ЗАПУСТИТЬ_БОТА-0088cc?style=for-the-badge&logo=telegram"></a>
+  <a href="https://t.me/searcheruserinfobot"><img src="https://img.shields.io/badge/Базы-Обновлены_2026-success?style=for-the-badge"></a>
 </div>
 
 ---
@@ -14,7 +14,7 @@
 
 Наш бот — это совсем другой уровень. Он реально выдает **данные по номеру телефона**: как зовут владельца, где он живет, какие у него профили в соцсетях и, самое крутое, как этот номер записан в телефонных книгах у сотен тысяч других людей.
 
-> 👉 **[ПРОБИТЬ НОМЕР ПРЯМО СЕЙЧАС](https://t.me/oofindersearchbot)**
+> 👉 **[ПРОБИТЬ НОМЕР ПРЯМО СЕЙЧАС](https://t.me/searcheruserinfobot)**
 
 ## 🔍 Что конкретно покажет бот?
 
@@ -45,7 +45,7 @@
 <div align="center">
   <h3>Хватит гадать, кто звонил. Узнай за 10 секунд:</h3>
   <br>
-  <a href="https://t.me/oofindersearchbot"><img src="https://img.shields.io/badge/ПРОБИТЬ_НОМЕР_ТЕЛЕФОНА-ПЕРЕЙТИ_В_БОТ-red?style=for-the-badge&logo=telegram"></a>
+  <a href="https://t.me/searcheruserinfobot"><img src="https://img.shields.io/badge/ПРОБИТЬ_НОМЕР_ТЕЛЕФОНА-ПЕРЕЙТИ_В_БОТ-red?style=for-the-badge&logo=telegram"></a>
 </div>
 
 <br>
